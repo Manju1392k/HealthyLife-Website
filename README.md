@@ -23,11 +23,11 @@ https://user-images.githubusercontent.com/66934377/158811897-54bd0d50-38ed-4cf4-
 
 # FrameWork 
 
-The Below Table Framework is used in this Project.The HealthyLife Website is made with Boostrap Framework
+The Below Table Framework is used in this Project.The HealthyLife Website is made with Bootstrap Framework
 
 | FrameWork  | Version |
 | ------------- | ------------- |
-| Boostrap  | 5.1.3  |
+| Bootstrap  | 5.1.3  |
 
 
 
